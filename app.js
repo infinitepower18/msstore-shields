@@ -35,10 +35,12 @@ app.get('/:appId/installs',function(req,res){
         })
         .catch(function(error){
             console.log(error)
+            res.send("An error has occured. See logs for more information.")
         })
     })
     .catch(function(error){
         console.log(error)
+        res.send("An error has occured. See logs for more information.")
     });
 })
 
