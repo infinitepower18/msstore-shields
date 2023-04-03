@@ -9,6 +9,6 @@ Currently, the API has the installs endpoint ready to use. Just go to https://sh
 | Variable | Required | Description |
 | :---         |     :---:      | :---          |
 | **PORT**   | No     | Uses port 8080 by default    |
-| **TENANT_ID**     | Yes      | ID of your Azure AD tenant      |
+| **TENANT_ID**     | Yes      | ID of your Azure AD tenant. You can find this in Partner Center settings under Tenants. If you don't have one, you can create it from this page.      |
 | **CLIENT_ID**     | Yes       | Client ID of your Azure AD application   |
 | **CLIENT_SECRET**     | Yes      | Client secret of your Azure AD application      |
