@@ -3,6 +3,8 @@ Showcase how your app is doing using this API that provides endpoints for shield
 
 Currently, the API has the installs endpoint ready to use. Just go to https://shields.io/endpoint and use `https://yourapi.address/AppID/installs` as the endpoint URL. And you can easily expand this API using information available in the MS Store API documentation: https://learn.microsoft.com/en-us/windows/uwp/monetize/access-analytics-data-using-windows-store-services
 
+For a live demo, you can check out the ms store downloads page on the [WSA Sideloader](https://github.com/infinitepower18/WSA-Sideloader) readme.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1K06VY)
 
 ## Environment variables
