@@ -1,7 +1,7 @@
 # Microsoft Store Shields API
 Showcase how your app is doing using this API that provides endpoints for shields badges. This makes use of the official Microsoft Store API to get analytics information.
 
-Currently, the API has the installs endpoint ready to use. Just go to https://shields.io/endpoint and use `https://yourapi.address/AppID/installs` as the endpoint URL. And you can easily expand this API using information available in the MS Store API documentation: https://learn.microsoft.com/en-us/windows/uwp/monetize/access-analytics-data-using-windows-store-services
+Currently, the API has the installs endpoint ready to use. Just go to https://shields.io/endpoint and use `https://yourapi.address/AppID/installs` as the endpoint URL. And you can easily expand this API using information available in the [MS Store API documentation](https://learn.microsoft.com/en-us/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-3-call-the-microsoft-store-analytics-api)
 
 For a live demo, you can check out the ms store downloads page on the [WSA Sideloader](https://github.com/infinitepower18/WSA-Sideloader) readme.
 
